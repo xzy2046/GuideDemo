@@ -1,0 +1,28 @@
+<resources>
+    <declare-styleable name="TouchLayer">
+        <attr name="exampleString" format="string" />
+        <attr name="exampleDimension" format="dimension" />
+        <attr name="exampleColor" format="color" />
+        <attr name="exampleDrawable" format="color|reference" />
+
+        <!--第一屏显示的上下两幅图-->
+        <attr name="image_logo" format="reference" />
+        <attr name="image_front" format="reference" />
+
+        <!--第二页开始的功能图片-->
+        <attr name="image_1" format="reference" />
+        <attr name="image_2" format="reference" />
+        <attr name="image_3" format="reference" />
+        <attr name="image_4" format="reference" />
+
+        <attr name="text_title_1" format="reference" />
+        <attr name="text_title_2" format="reference" />
+        <attr name="text_title_3" format="reference" />
+        <attr name="text_title_4" format="reference" />
+
+        <attr name="text_summary_1" format="reference" />
+        <attr name="text_summary_2" format="reference" />
+        <attr name="text_summary_3" format="reference" />
+        <attr name="text_summary_4" format="reference" />
+    </declare-styleable>
+</resources>

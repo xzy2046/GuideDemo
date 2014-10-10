@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">GuideDemo</string>
+    <string name="welcome_logo_image">淘宝电影</string>
+    <string name="action_settings">Settings</string>
+    <string name="search_title">搜索</string>
+    <string name="search_summary">只有想不到，没有搜不到</string>
+
+    <integer-array name="welcome_bitmaps">
+        <item>@drawable/welcome_image</item>
+        <item>@drawable/welcome_search_bg</item>
+        <item>@string/app_name</item>
+    </integer-array>
+</resources>
